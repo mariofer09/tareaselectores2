@@ -1,0 +1,54 @@
+/* Todos los elementos de la página */
+
+*{
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Todos los párrafos de la página */
+
+* p{
+  color: #555;
+}
+
+/* Todos los párrafos contenidos en primero */
+
+#primeo p{
+  color: #369;
+}
+
+/* Todos los enlaces la página */
+
+* a{
+  color: #C30;
+}
+
+/* Los elementos <em> contenidos en primero */
+
+.primero em {
+  color: #0000BB;
+  background-color: #FFFFCC;
+}
+
+/* Todos los elementos <em> con la clase "especial" en toda la página */
+
+{
+  color: #FFFF00;
+  background: #000000;
+}
+
+/* Todos los elementos <span> contenidos en la clase "normal" */
+
+{
+  font-weight: bold;
+}
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-jul-2018, 12:44:16
+    Author     : toshiba
+*/
+

@@ -32,14 +32,14 @@
 
 /* Todos los elementos <em> con la clase "especial" en toda la página */
 
-{
+em .special *{
   color: #FFFF00;
   background: #000000;
 }
 
 /* Todos los elementos <span> contenidos en la clase "normal" */
 
-{
+.normal span {
   font-weight: bold;
 }
 /*
